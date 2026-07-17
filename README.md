@@ -1,14 +1,14 @@
 
 # Olá, eu sou o Moisés Coimbra! 👋
 
-Professional do setor bancário com mais de 9 anos de experiência no setor bancário, compliance e esteiras de crédito PJ, atualmente expandindo fronteiras e me especializando em **Ciência de Dados** pela FIAP. 
+Professional do setor bancário com mais de 10 anos de experiência no setor bancário, compliance e esteiras de crédito PJ, atualmente expandindo fronteiras e me especializando em **Ciência de Dados** pela FIAP. 
 
 Acredito no poder de unir o profundo conhecimento de regras de negócio financeiras à engenharia e modelagem avançada de dados para construir soluções escaláveis, seguras e de alto impacto estratégico.
 
 ---
 
 ### 🏆 Conquistas Recentes & Destaques
-* **Finalista do Challenge NUCLEA (NEXT 2026):** Desenvolvi de forma individual o **SafeAsset**, um projeto de dados selecionado pela banca executiva da NUCLEA entre os finalistas para o evento de inovação NEXT 2026.
+* **Finalista do Challenge NUCLEA (NEXT 2026):** Desenvolvi o **SafeAsset**, um projeto de dados selecionado pela banca executiva da NUCLEA entre os finalistas para o evento de inovação NEXT 2026.
 * **Gold Certified pela FIAP:** Certificação de Qualificação Profissional em Modelagem, Programação e Qualidade de Dados com selo de excelência (Nível Ouro).
 * **Lean Seis Sigma Yellow Belt:** Certificado pela FM2S, com foco em melhoria contínua e otimização de processos aplicados a negócios.
 
